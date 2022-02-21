@@ -35,7 +35,9 @@ Seu servidor estará rodando na porta: **8080** no endereço: http://localhost:8
 
 Pronto !! <3 Seu frontend está rodando e pronto.
 
-  
+## Credenciais para login sem o AD:
+  - Usuário: laudite
+  - Senha: test
 
 ## Estrutura do projeto:
 
