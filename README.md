@@ -11,17 +11,18 @@ Esse repositório tem como intuito armazenar e dar instruções referentes ao pr
 
 Dentro da pasta do projeto, abra seu terminal de preferência e execute o seguinte comando:
 
-  
-
+ 
+~~~javascript
 npm install
+~~~
 
 Após isso aguarde a instalação de todos os pacotes para continuar.
 
 Depois de instalado volte ao terminal já dentro do projeto e rode o seguinte comando:
 
-  
-
+~~~
 npm start
+~~~
 
 Após esse comando ser finalizado seu terminal ficará com a seguinte mensagem:
 
